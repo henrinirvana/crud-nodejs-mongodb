@@ -33,4 +33,8 @@ requireDir("./src/models");
 //rotas
 app.use("/api", require("./src/routes"));
 
+<<<<<<< HEAD
 app.listen(process.env.PORT || 3001);
+=======
+app.listen(process.env.PORT || 3001);
+>>>>>>> b3bf3ec9e971a80cc35f91ae67ebb707d3e3a849
